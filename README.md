@@ -1,2 +1,3 @@
-# Adidas-Dashboard-in-Power-BI
-A Power BI project analyzing Adidas sales performance across regions, products, and time. The interactive dashboard visualizes KPIs like revenue, profit, units sold, and top-performing categories. Features filters and drilldowns, enabling actionable insights for strategic decision-making.
+#Adidas Sales Dashboard (Power BI)
+##Project Objective: 
+To create an interactive Power BI dashboard that visualizes Adidas sales trends, KPIs, and regional performance, supporting business decisions through actionable insights and data storytelling.
